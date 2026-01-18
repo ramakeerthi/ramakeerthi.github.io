@@ -21,9 +21,9 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://ramakeerthi.github.io',
-  baseUrl: '/dsa-notes/',
+  baseUrl: '/',
   organizationName: 'ramakeerthi',
-  projectName: 'dsa-notes',
+  projectName: 'ramakeerthi.github.io',
 
 
   onBrokenLinks: 'throw',
