@@ -2,16 +2,18 @@
 sidebar_position: 1
 ---
 
-# DSA Notes
+# DSA Notes (Placeholder)
 
-Welcome to my personal Data Structures and Algorithms notes.
+This section will host my personal Data Structures and Algorithms notes.
 
-These notes focus on **patterns**, **intuition**, and **common mistakes** rather than exhaustive explanations. The goal is to build problem-solving intuition and recognize when to apply specific techniques.
+For now, this page is a placeholder. The plan is to focus on **patterns**, **intuition**, and **common mistakes** rather than exhaustive explanations, and to organize content into clear topic-based pages.
 
-Each section covers:
-- When to use the technique
-- Core patterns and variations
-- Practical tips and pitfalls
-- Worked examples
+Potential areas to cover:
 
-Use these notes as a quick reference and study guide for interview preparation and algorithm practice.
+- Arrays, strings, and hashing
+- Linked lists, stacks, queues
+- Trees and graphs
+- Dynamic programming and greedy algorithms
+- Problem patterns and practice notes
+
+As I build this out, I will gradually replace these placeholders with real content and examples.
