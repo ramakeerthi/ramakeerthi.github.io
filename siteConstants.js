@@ -2,7 +2,7 @@
 // This file is imported from config and can also be used in React code if needed.
 
 export const SITE_TITLE = 'Ramakeerthi';
-export const SITE_TAGLINE = 'Personal site, DSA notes';
+export const SITE_TAGLINE = 'Full Stack Developer | SDE2 at Nike';
 
 export const SITE_URL = 'https://ramakeerthi.github.io';
 export const SITE_ORGANIZATION = 'ramakeerthi';

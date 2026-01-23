@@ -158,3 +158,32 @@
   margin-top: 0.5rem !important;
   font-size: 0.875rem !important;
 }
+
+/* Profile page styling */
+main section {
+  margin-bottom: 1.5rem;
+}
+
+main section h2 {
+  margin-bottom: 0.75rem;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding-bottom: 0.4rem;
+}
+
+main section h3 {
+  font-size: 1.1rem;
+  margin-top: 0;
+}
+
+main section ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+main section ul li {
+  margin-bottom: 0.5rem;
+}
+
+[data-theme='dark'] main section h2 {
+  border-bottom-color: var(--ifm-color-primary);
+}
