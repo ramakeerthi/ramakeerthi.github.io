@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# DSA Notes (Placeholder)
+# DSA Notes
 
 This section will host my personal Data Structures and Algorithms notes.
 

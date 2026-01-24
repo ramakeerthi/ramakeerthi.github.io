@@ -22,7 +22,7 @@ import {
 const config = {
   title: SITE_TITLE,
   tagline: SITE_TAGLINE,
-  favicon: 'img/logo.jpeg',
+  favicon: 'img/logo.JPEG',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -78,7 +78,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/logo.jpeg',
+      image: 'img/logo.JPEG',
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
@@ -88,7 +88,7 @@ const config = {
         title: SITE_TITLE,
         logo: {
           alt: 'Personal logo',
-          src: 'img/logo.jpeg',
+          src: 'img/logo.JPEG',
         },
         items: [
           // Profile / Home
