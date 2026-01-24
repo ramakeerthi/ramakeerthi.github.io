@@ -4,8 +4,10 @@ export const profileData = {
   
   about: {
     paragraphs: [
-      'Full Stack Developer with over four years of experience building scalable backend systems, distributed task pipelines, and cloud-native applications. Currently working as an SDE2 at Nike, where I focus on architecting high-impact solutions that improve system reliability, reduce operational costs, and enable platform growth.',
-      'My core strengths lie in backend engineering, distributed systems, cloud infrastructure, and performance-oriented problem solving. I have a proven track record of designing systems that handle high traffic, optimizing APIs for better performance, and building automated pipelines that reduce manual effort and improve operational efficiency.',
+      'I\'m a full-stack software engineer with 4+ years of experience building and scaling web applications and cloud-native systems end to end. I enjoy working across the stack, combining intuitive frontend experiences with reliable, well-architected backend services.',
+      'Currently, I work at Nike as a Full-Stack Developer, where I build and maintain applications supporting the manufacturing and supply chain operations using React, Node.js, AWS, and Elastic. My work involves developing frontend features, designing and integrating backend APIs, working with search and analytics systems, and operating services on AWS. I focus on building scalable, observable systems that balance performance, reliability, and developer experience.',
+      'Previously, I\'ve worked across analytics and enterprise platforms, contributing to distributed backend systems, data pipelines, and cloud-based applications at scale. I\'ve designed APIs, optimized system performance, and built internal tools and dashboards used across teams. These experiences gave me a strong foundation in system design, production engineering, and owning features end to end in complex environments.',
+      'Overall, I enjoy taking ownership from idea to deployment, collaborating closely with product and design teams, and building software that is both technically solid and genuinely useful for users.',
     ],
   },
 
@@ -28,7 +30,6 @@ export const profileData = {
     ],
     toolsOthers: [
       'Distributed Systems & Task Queues',
-      'ML Pipelines & Data Processing',
       'Pandas, Blob Storage',
     ],
   },
